@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: 5fe203cc80f5d64418dddf7f4d6f2f02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7658071057652482258
+    second: hippo_spritesheet_0
+  - first:
+      213: 8341799027164642098
+    second: hippo_spritesheet_1
+  - first:
+      213: -5924271523129064360
+    second: hippo_spritesheet_2
+  - first:
+      213: 6649887917357479829
+    second: hippo_spritesheet_3
+  - first:
+      213: 6166311316836369458
+    second: hippo_spritesheet_4
+  - first:
+      213: 828220089296207790
+    second: hippo_spritesheet_5
+  - first:
+      213: 1153185353368184990
+    second: hippo_spritesheet_6
+  - first:
+      213: -8570282964824503461
+    second: hippo_spritesheet_7
+  - first:
+      213: 3840759147711905194
+    second: hippo_spritesheet_8
+  - first:
+      213: -2360701479201335280
+    second: hippo_spritesheet_9
+  - first:
+      213: 8289110898248692656
+    second: hippo_spritesheet_10
+  - first:
+      213: -8138686692108453960
+    second: hippo_spritesheet_11
+  - first:
+      213: -1896231609673129550
+    second: hippo_spritesheet_12
+  - first:
+      213: -2857206532074012340
+    second: hippo_spritesheet_13
+  - first:
+      213: -2382325474695404393
+    second: hippo_spritesheet_14
+  - first:
+      213: 3982374505937304269
+    second: hippo_spritesheet_15
+  - first:
+      213: 502839712795282665
+    second: hippo_spritesheet_16
+  - first:
+      213: -5673601360051792970
+    second: hippo_spritesheet_17
+  - first:
+      213: 4666351878924927230
+    second: hippo_spritesheet_18
+  - first:
+      213: -790284278159650733
+    second: hippo_spritesheet_19
+  - first:
+      213: 6914795267696800248
+    second: hippo_spritesheet_20
+  - first:
+      213: 2001689225587345857
+    second: hippo_spritesheet_21
+  - first:
+      213: 8274158861533325392
+    second: hippo_spritesheet_22
+  - first:
+      213: -7946370128427839126
+    second: hippo_spritesheet_23
+  - first:
+      213: -4628498132278809871
+    second: hippo_spritesheet_24
+  - first:
+      213: 1987268427960947975
+    second: hippo_spritesheet_25
+  - first:
+      213: -5781581277009611050
+    second: hippo_spritesheet_26
+  - first:
+      213: -4022509863517027224
+    second: hippo_spritesheet_27
+  - first:
+      213: 6030185468970919280
+    second: hippo_spritesheet_28
+  - first:
+      213: -2235406794698651486
+    second: hippo_spritesheet_29
+  - first:
+      213: -979231926044191468
+    second: hippo_spritesheet_30
+  - first:
+      213: -5933858063488432625
+    second: hippo_spritesheet_31
+  - first:
+      213: -1326234148919000233
+    second: hippo_spritesheet_32
+  - first:
+      213: 7880625662882863874
+    second: hippo_spritesheet_33
+  - first:
+      213: 8760785745024153261
+    second: hippo_spritesheet_34
+  - first:
+      213: 1763821163013684713
+    second: hippo_spritesheet_35
+  - first:
+      213: 4184465145233247786
+    second: hippo_spritesheet_36
+  - first:
+      213: 3822048994119336797
+    second: hippo_spritesheet_37
+  - first:
+      213: -151130059384594561
+    second: hippo_spritesheet_38
+  - first:
+      213: -5899086900140492552
+    second: hippo_spritesheet_39
+  - first:
+      213: -665565625124530745
+    second: hippo_spritesheet_40
+  - first:
+      213: -1227902065531931932
+    second: hippo_spritesheet_41
+  - first:
+      213: -8863850498678515268
+    second: hippo_spritesheet_42
+  - first:
+      213: -8595482246422717592
+    second: hippo_spritesheet_43
+  - first:
+      213: 4660314322288650058
+    second: hippo_spritesheet_44
+  - first:
+      213: 1284296714986493710
+    second: hippo_spritesheet_45
+  - first:
+      213: 8136039904036623847
+    second: hippo_spritesheet_46
+  - first:
+      213: 392053023729786373
+    second: hippo_spritesheet_47
+  - first:
+      213: 6735615624477380379
+    second: hippo_spritesheet_48
+  - first:
+      213: -6408834474312667540
+    second: hippo_spritesheet_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hippo_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5814
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c34419107f94b644ad5dc960545daf3
+      internalID: 1484613002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 5814
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efad798231ce25044bc975678ac496a5
+      internalID: 435515817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 5814
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addb9c471e44e294f8a3098c2e8f33bf
+      internalID: -1309274726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 5814
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c7965a97ed47649955a08cfd8c812a
+      internalID: 953783175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 5814
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01175b24207c1bd45bdf648e042b74f6
+      internalID: -78976941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5168
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48b3d15b4d2dd14096b4a98835b56de
+      internalID: 1101875533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 5168
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1734e024c96b56944bba8a5b931503c2
+      internalID: 73589244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 5168
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8319d81da929264c9e7f4aeee1dc119
+      internalID: 1978318851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 5168
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27566d76bcd11845a4d01687b9b6dd0
+      internalID: -116627881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 5168
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89781cc8cb0bb784aa37dca85e3a5bac
+      internalID: 1687790563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4522
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d8c5dd1243e7845b9790721478cd20
+      internalID: 306645860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 4522
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fef5f3273951c41b6f610e1acd1104
+      internalID: 1616425468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 4522
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ca74f7d033ad9409c54cec38c70da5
+      internalID: -1638720980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 4522
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd0879072ea40a4d9beb10ec82088b7
+      internalID: 666065327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 4522
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da93c0389846d54d949a15d453af812
+      internalID: 818804344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3876
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d65dcd72b85cb4a8848eb6e0ec75e1
+      internalID: -879954776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 3876
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44190384c97d24b4ba7926131fd0d9ea
+      internalID: -648290954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 3876
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f56f9f1039ebc46b74d3e283eb611b
+      internalID: -651510056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 3876
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7eebb4c1a5832b4897b3bc0a3da2f72
+      internalID: -2010114000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 3876
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c808deb99848e924a8eedd2fd9e62ca1
+      internalID: -494171966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3230
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ecd75fd78dcb844808034af007ca22
+      internalID: 554826371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 3230
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b1378cb1de6fe419a15b0e9cf9f5ef
+      internalID: -564394149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 3230
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195ad989281290341ad9c6e96799aac6
+      internalID: -1865575364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 3230
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94168f7195d954648887308515b9cf43
+      internalID: -1489083595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 3230
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b973ab168cc2a8a488a2729fcecbc74c
+      internalID: -414018773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2584
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d2daf317222874595f78ffbe48a05b
+      internalID: 1562184490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 2584
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9d1e54163055040884ce57b6754c2c
+      internalID: 576160634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 2584
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9e13b395f568c498c7f54d0e7fb6be
+      internalID: 1738099299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 2584
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254f89f6e36b83c4caf82f2fa499ef2b
+      internalID: -953258302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 2584
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1da1dafe0274441905a4ba6821c133
+      internalID: 1960288461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1938
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba2ba7422c45fc4d809f70ff964aa85
+      internalID: 1822441107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1938
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1cb008896ec73419da45bdc87b9812
+      internalID: 1239419045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1938
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d93c1a3f76ebc4c99fa9fe2cb7a94c
+      internalID: -2067906131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 1938
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21aef0079e20af8499e09ce92d5d1ad8
+      internalID: 1263456500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 1938
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bf2d4a14f18c84980aab2cdc8094dd
+      internalID: 1145689917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1292
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de14c2460935a98458c43454a7eb9f9f
+      internalID: -681928134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1292
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b90006c5b4efca479afcd4347f2e370
+      internalID: -1850932791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1292
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef8651033423d2448ba01bdaaff3de5
+      internalID: -607417234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 1292
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57157904a3cb2d42923db80b9bcd43f
+      internalID: 352815527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 1292
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dabbdb4e81bea4c83abbb890581742
+      internalID: -305611558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 646
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b376aa518801b24bae37263a5ea0db3
+      internalID: -417891131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 646
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c949e35e1088df1489c97d72b1a6d16e
+      internalID: -532532154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 646
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccbd3f4fdad08941b333042fcbfc0b4
+      internalID: 29072034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 646
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd70dff73f032c4f8d1f0bc11786a88
+      internalID: -1026445687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 646
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159834fb4596aef4fa10436319096db7
+      internalID: 2123023299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919bbf0e63b358b40aca1324d06610c7
+      internalID: -435664250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 0
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dcfded07790da4fbced2a706114cc4
+      internalID: 1589150239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 0
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e23d6df80c023643913c087fcb62342
+      internalID: 1280562748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 0
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e01b9e2c6daf424d9a685c123699934
+      internalID: -1290947754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hippo_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 0
+        width: 862
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1a32c78fbe44c4193e34c24293549a
+      internalID: 800341879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3b972b4a0de3b41478074ed85f8c3ccf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hippo_spritesheet_0: 1484613002
+      hippo_spritesheet_1: 435515817
+      hippo_spritesheet_10: 306645860
+      hippo_spritesheet_11: 1616425468
+      hippo_spritesheet_12: -1638720980
+      hippo_spritesheet_13: 666065327
+      hippo_spritesheet_14: 818804344
+      hippo_spritesheet_15: -879954776
+      hippo_spritesheet_16: -648290954
+      hippo_spritesheet_17: -651510056
+      hippo_spritesheet_18: -2010114000
+      hippo_spritesheet_19: -494171966
+      hippo_spritesheet_2: -1309274726
+      hippo_spritesheet_20: 554826371
+      hippo_spritesheet_21: -564394149
+      hippo_spritesheet_22: -1865575364
+      hippo_spritesheet_23: -1489083595
+      hippo_spritesheet_24: -414018773
+      hippo_spritesheet_25: 1562184490
+      hippo_spritesheet_26: 576160634
+      hippo_spritesheet_27: 1738099299
+      hippo_spritesheet_28: -953258302
+      hippo_spritesheet_29: 1960288461
+      hippo_spritesheet_3: 953783175
+      hippo_spritesheet_30: 1822441107
+      hippo_spritesheet_31: 1239419045
+      hippo_spritesheet_32: -2067906131
+      hippo_spritesheet_33: 1263456500
+      hippo_spritesheet_34: 1145689917
+      hippo_spritesheet_35: -681928134
+      hippo_spritesheet_36: -1850932791
+      hippo_spritesheet_37: -607417234
+      hippo_spritesheet_38: 352815527
+      hippo_spritesheet_39: -305611558
+      hippo_spritesheet_4: -78976941
+      hippo_spritesheet_40: -417891131
+      hippo_spritesheet_41: -532532154
+      hippo_spritesheet_42: 29072034
+      hippo_spritesheet_43: -1026445687
+      hippo_spritesheet_44: 2123023299
+      hippo_spritesheet_45: -435664250
+      hippo_spritesheet_46: 1589150239
+      hippo_spritesheet_47: 1280562748
+      hippo_spritesheet_48: -1290947754
+      hippo_spritesheet_49: 800341879
+      hippo_spritesheet_5: 1101875533
+      hippo_spritesheet_6: 73589244
+      hippo_spritesheet_7: 1978318851
+      hippo_spritesheet_8: -116627881
+      hippo_spritesheet_9: 1687790563
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

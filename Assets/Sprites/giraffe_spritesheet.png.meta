@@ -1,0 +1,1938 @@
+fileFormatVersion: 2
+guid: 7ec0332fdb38d334a9dfd4a9615bc1b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6393056602510368543
+    second: giraffe_spritesheet_0
+  - first:
+      213: -7681659660000601169
+    second: giraffe_spritesheet_1
+  - first:
+      213: 1074107145665820911
+    second: giraffe_spritesheet_2
+  - first:
+      213: -512547819138009644
+    second: giraffe_spritesheet_3
+  - first:
+      213: 6062530244210524654
+    second: giraffe_spritesheet_4
+  - first:
+      213: -7863658340868102817
+    second: giraffe_spritesheet_5
+  - first:
+      213: 1744643337285796575
+    second: giraffe_spritesheet_6
+  - first:
+      213: -1851264284087533320
+    second: giraffe_spritesheet_7
+  - first:
+      213: -4632282444231881282
+    second: giraffe_spritesheet_8
+  - first:
+      213: -8102618853725866254
+    second: giraffe_spritesheet_9
+  - first:
+      213: 7227022495688590418
+    second: giraffe_spritesheet_10
+  - first:
+      213: 7403234052304467246
+    second: giraffe_spritesheet_11
+  - first:
+      213: 1755464726924001630
+    second: giraffe_spritesheet_12
+  - first:
+      213: 4550733196448555480
+    second: giraffe_spritesheet_13
+  - first:
+      213: 3931819410791123999
+    second: giraffe_spritesheet_14
+  - first:
+      213: -7589015876534651611
+    second: giraffe_spritesheet_15
+  - first:
+      213: -350096203352564901
+    second: giraffe_spritesheet_16
+  - first:
+      213: -7240238003790437896
+    second: giraffe_spritesheet_17
+  - first:
+      213: -5895470511804259836
+    second: giraffe_spritesheet_18
+  - first:
+      213: 2034711209001115946
+    second: giraffe_spritesheet_19
+  - first:
+      213: 8421781960182493283
+    second: giraffe_spritesheet_20
+  - first:
+      213: -4301091395411383553
+    second: giraffe_spritesheet_21
+  - first:
+      213: -6992516752622123284
+    second: giraffe_spritesheet_22
+  - first:
+      213: -735353456043043509
+    second: giraffe_spritesheet_23
+  - first:
+      213: 8152223044182718099
+    second: giraffe_spritesheet_24
+  - first:
+      213: 4432528825121285238
+    second: giraffe_spritesheet_25
+  - first:
+      213: -3117773933411918410
+    second: giraffe_spritesheet_26
+  - first:
+      213: -5332165315787554552
+    second: giraffe_spritesheet_27
+  - first:
+      213: 1188955402641526110
+    second: giraffe_spritesheet_28
+  - first:
+      213: -2860304271613933037
+    second: giraffe_spritesheet_29
+  - first:
+      213: -906905088836590549
+    second: giraffe_spritesheet_30
+  - first:
+      213: 4298096987818915476
+    second: giraffe_spritesheet_31
+  - first:
+      213: 966354115142646351
+    second: giraffe_spritesheet_32
+  - first:
+      213: 2353344489197777080
+    second: giraffe_spritesheet_33
+  - first:
+      213: 914577903180314417
+    second: giraffe_spritesheet_34
+  - first:
+      213: -5318940936941312932
+    second: giraffe_spritesheet_35
+  - first:
+      213: -4104968450470502048
+    second: giraffe_spritesheet_36
+  - first:
+      213: -847747689941650554
+    second: giraffe_spritesheet_37
+  - first:
+      213: -49301754317624355
+    second: giraffe_spritesheet_38
+  - first:
+      213: 7734652920536121367
+    second: giraffe_spritesheet_39
+  - first:
+      213: -1251791524325752343
+    second: giraffe_spritesheet_40
+  - first:
+      213: -3546022732947645669
+    second: giraffe_spritesheet_41
+  - first:
+      213: 2295583996939322707
+    second: giraffe_spritesheet_42
+  - first:
+      213: -1267562969123876469
+    second: giraffe_spritesheet_43
+  - first:
+      213: 8981117417669356314
+    second: giraffe_spritesheet_44
+  - first:
+      213: 3051944513161391642
+    second: giraffe_spritesheet_45
+  - first:
+      213: 6600391672014804685
+    second: giraffe_spritesheet_46
+  - first:
+      213: -3714601514799406830
+    second: giraffe_spritesheet_47
+  - first:
+      213: -2235649070224902219
+    second: giraffe_spritesheet_48
+  - first:
+      213: 7445653477892554875
+    second: giraffe_spritesheet_49
+  - first:
+      213: -1251861374503931854
+    second: giraffe_spritesheet_50
+  - first:
+      213: -900439426133836079
+    second: giraffe_spritesheet_51
+  - first:
+      213: -3139497156436384173
+    second: giraffe_spritesheet_52
+  - first:
+      213: 4780884824935145392
+    second: giraffe_spritesheet_53
+  - first:
+      213: -3113081611105403739
+    second: giraffe_spritesheet_54
+  - first:
+      213: -4444814774925254395
+    second: giraffe_spritesheet_55
+  - first:
+      213: -7013152324276391573
+    second: giraffe_spritesheet_56
+  - first:
+      213: -9147386341217319976
+    second: giraffe_spritesheet_57
+  - first:
+      213: 4292410212361697759
+    second: giraffe_spritesheet_58
+  - first:
+      213: -3031600544423755901
+    second: giraffe_spritesheet_59
+  - first:
+      213: 7953973997912715004
+    second: giraffe_spritesheet_60
+  - first:
+      213: -371376030023486208
+    second: giraffe_spritesheet_61
+  - first:
+      213: -488221961938453199
+    second: giraffe_spritesheet_62
+  - first:
+      213: 2955128700178122865
+    second: giraffe_spritesheet_63
+  - first:
+      213: 2936621060876942665
+    second: giraffe_spritesheet_64
+  - first:
+      213: -1149282523974546658
+    second: giraffe_spritesheet_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: giraffe_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4511
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6d223e09ac20d4aafa2247ae348733
+      internalID: -4482140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 4511
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac032c237f6bfc14d912d8e371f8f75d
+      internalID: -1251325653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 4511
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca72f2f195331e4796ea610b06dbaf6
+      internalID: 1135835061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 4511
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c322216e5dfb50478bfc2063d4fadbd
+      internalID: 1245226979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 4511
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b4b4e14bb06e54b91bb00d7719c443
+      internalID: 340952125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4164
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ca626b8f9f01547916b7e924d46df3
+      internalID: 2142174499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 4164
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fc00ee412f74140b3cbd43a3f3b1c5
+      internalID: -1604380985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 4164
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b972914fa266f1c4ba8e657eef4d7306
+      internalID: 272876780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 4164
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f091ccb6699a86b44a2967390db4e704
+      internalID: 690576161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 4164
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3dea32a7aca1c4e9337808ac1766cc
+      internalID: -278643948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3817
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d41a57d8d5bd5443b0c19923b327d69
+      internalID: -1619572291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 3817
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bb039ac79948246bf8be0354e159df
+      internalID: -1633219666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 3817
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d73a1a1100771844a228d0e6b92409e
+      internalID: -1740966810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 3817
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fadfcc65112b041bc1370418c10293
+      internalID: 190699505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3817
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e890f022c98f20d40843bcbb35403772
+      internalID: -295454487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3470
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b862be9f0dbda9042b0e5e8cfb2cd714
+      internalID: 1623737170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 3470
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9199e1be17cfb942b2e8e6dd686cfd9
+      internalID: 2093419387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 3470
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0551bce71ca6dd418c6524fe599953b
+      internalID: 1762974478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 3470
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0093cbcc6998ef64f80f222bf8e5a795
+      internalID: 870531282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3470
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f0b350d1e44274083ad76a46b4ef11
+      internalID: -1815984691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3123
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ba5c6f23039c0409d9215a8e2281c4
+      internalID: 1382133413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 3123
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fbd25b91f7bb24dad058a0087ea73e
+      internalID: -256428737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 3123
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9e89f84bb092f46ab50ad985ece840
+      internalID: -864309293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 3123
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fbceac6e663b94ca41b91d89684caf
+      internalID: -1464603039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3123
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65c67a95672ad34881234f0cf249210
+      internalID: -463319374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2776
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae6a80611da1e648941a78c91794725
+      internalID: 1245092799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2776
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58e3575cc91f64488c82a6179318478
+      internalID: 1675846933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 2776
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92931e72807a844e8de537371b5329d
+      internalID: 1874956561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 2776
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1e332c4afffb44ead08334d4b36359
+      internalID: 176201995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 2776
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5873b045bb543264aad23c2f64db6943
+      internalID: 1076527742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2429
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71164672834a5d4469476dbc1117e618
+      internalID: 915217532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2429
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdc3e75c83f33045a252e9fb14ecbb0
+      internalID: -1336604965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 2429
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a182964e56c5b4d8c53ee705df09d8
+      internalID: 1579689204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 2429
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278c104ac9310c44fab76b542f6b4409
+      internalID: -1261769137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 2429
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db46d7d923f38214baee5e14b512aca4
+      internalID: 1618234735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2082
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d1b9946accd6240b15a3ce7293753c
+      internalID: 785525415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2082
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef32bd73d56dd240a70616195307cb7
+      internalID: -1177092334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 2082
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ac7648c35b44c4fbe38023dbbad2e6
+      internalID: 84092418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 2082
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56542b77eb60e704dba2d89e2845d2c7
+      internalID: -1494762924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 2082
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffac941b87e7534c9bb005d7eb8f8b1
+      internalID: -506216620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1735
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2d02d810f3e0748be114b0abe9137e
+      internalID: -250017338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1735
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69732d4402c5be40a572bfb8b59203a
+      internalID: -1923679301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1735
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df7f38490a81444297cb9f8cfcf924a
+      internalID: 623066329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1735
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3780323d3252e45998e9de817f4c12
+      internalID: -425035042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1735
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186f262cdbc02d248803a80abddf77ed
+      internalID: 109431235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1388
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dfddeeda3723f498dbb3bdacf041d5
+      internalID: -1302489605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1388
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cb939709ba19542923dce945343c33
+      internalID: -694957120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1388
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf08119459c90de428f45ccc5cbd9c0b
+      internalID: 532059038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1388
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76706b279186d14f963b6f81f116e26
+      internalID: -985929090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1388
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad8bfcd9a960af4daa235b727a68790
+      internalID: -418098208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1041
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3d66f2f7b2955428cf95396234275f
+      internalID: -107210819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1041
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79eaf2a73cb2af3458613145c451cb34
+      internalID: 284238373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1041
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91660332f79f7e440a4f23f35aa95f3b
+      internalID: -1141824497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1041
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6086bbda2fd3594499aed48356dc7a69
+      internalID: -1717674764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1041
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5308fcd52644bb04a964e2be0fe5ff75
+      internalID: -872488135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 694
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb2d166ffba5294587845f3020ff89a
+      internalID: -1040413902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 694
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf74a423df76534593e26de12e66e74
+      internalID: 1279653940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 694
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d922a1a1a7a8c5f4c9f259c6b7adf03b
+      internalID: -226643708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 694
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2edba06f095a0749908bf0d9072e7c3
+      internalID: 1330331877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 694
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c7861043781bc498379187297f8502
+      internalID: -1522784040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 347
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de7196153644444b9780c29113f64bf
+      internalID: -1136442405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 347
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e871dc4a336ecec44af989812053c77e
+      internalID: -852476253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 347
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca56e099b10f8d14b9788719b1e8a478
+      internalID: 468290811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 347
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01d355406ec57e40bf5c96add36d4b4
+      internalID: -495257302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 347
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729bba0653c5f12428cad648e026f91a
+      internalID: 1217162986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23d196ccbc7dfd48b65d0a1c531f19c
+      internalID: -687981985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 0
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14192bca16652d4fa2f2fe2da9554fd
+      internalID: 251009840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 0
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652900ec1314b024589ddd40eb4241ee
+      internalID: 1193280720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 0
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e4354da4bdfbc41a596ef1f4f478d8
+      internalID: 772779065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe_spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 0
+        width: 469
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125b19369e4834d4cbe60ce36eed1ea0
+      internalID: 712704590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 880a5f6c602096a43a3039f027d0f84a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      giraffe_spritesheet_0: -4482140
+      giraffe_spritesheet_1: -1251325653
+      giraffe_spritesheet_10: -1619572291
+      giraffe_spritesheet_11: -1633219666
+      giraffe_spritesheet_12: -1740966810
+      giraffe_spritesheet_13: 190699505
+      giraffe_spritesheet_14: -295454487
+      giraffe_spritesheet_15: 1623737170
+      giraffe_spritesheet_16: 2093419387
+      giraffe_spritesheet_17: 1762974478
+      giraffe_spritesheet_18: 870531282
+      giraffe_spritesheet_19: -1815984691
+      giraffe_spritesheet_2: 1135835061
+      giraffe_spritesheet_20: 1382133413
+      giraffe_spritesheet_21: -256428737
+      giraffe_spritesheet_22: -864309293
+      giraffe_spritesheet_23: -1464603039
+      giraffe_spritesheet_24: -463319374
+      giraffe_spritesheet_25: 1245092799
+      giraffe_spritesheet_26: 1675846933
+      giraffe_spritesheet_27: 1874956561
+      giraffe_spritesheet_28: 176201995
+      giraffe_spritesheet_29: 1076527742
+      giraffe_spritesheet_3: 1245226979
+      giraffe_spritesheet_30: 915217532
+      giraffe_spritesheet_31: -1336604965
+      giraffe_spritesheet_32: 1579689204
+      giraffe_spritesheet_33: -1261769137
+      giraffe_spritesheet_34: 1618234735
+      giraffe_spritesheet_35: 785525415
+      giraffe_spritesheet_36: -1177092334
+      giraffe_spritesheet_37: 84092418
+      giraffe_spritesheet_38: -1494762924
+      giraffe_spritesheet_39: -506216620
+      giraffe_spritesheet_4: 340952125
+      giraffe_spritesheet_40: -250017338
+      giraffe_spritesheet_41: -1923679301
+      giraffe_spritesheet_42: 623066329
+      giraffe_spritesheet_43: -425035042
+      giraffe_spritesheet_44: 109431235
+      giraffe_spritesheet_45: -1302489605
+      giraffe_spritesheet_46: -694957120
+      giraffe_spritesheet_47: 532059038
+      giraffe_spritesheet_48: -985929090
+      giraffe_spritesheet_49: -418098208
+      giraffe_spritesheet_5: 2142174499
+      giraffe_spritesheet_50: -107210819
+      giraffe_spritesheet_51: 284238373
+      giraffe_spritesheet_52: -1141824497
+      giraffe_spritesheet_53: -1717674764
+      giraffe_spritesheet_54: -872488135
+      giraffe_spritesheet_55: -1040413902
+      giraffe_spritesheet_56: 1279653940
+      giraffe_spritesheet_57: -226643708
+      giraffe_spritesheet_58: 1330331877
+      giraffe_spritesheet_59: -1522784040
+      giraffe_spritesheet_6: -1604380985
+      giraffe_spritesheet_60: -1136442405
+      giraffe_spritesheet_61: -852476253
+      giraffe_spritesheet_62: 468290811
+      giraffe_spritesheet_63: -495257302
+      giraffe_spritesheet_64: 1217162986
+      giraffe_spritesheet_65: -687981985
+      giraffe_spritesheet_66: 251009840
+      giraffe_spritesheet_67: 1193280720
+      giraffe_spritesheet_68: 772779065
+      giraffe_spritesheet_69: 712704590
+      giraffe_spritesheet_7: 272876780
+      giraffe_spritesheet_8: 690576161
+      giraffe_spritesheet_9: -278643948
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

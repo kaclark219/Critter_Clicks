@@ -1,0 +1,1586 @@
+fileFormatVersion: 2
+guid: 2a7e551af7c3f21448288a320e62b53c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4442315374921513385
+    second: elephant_spritesheet_0
+  - first:
+      213: 257139037129839830
+    second: elephant_spritesheet_1
+  - first:
+      213: 4079521751423416750
+    second: elephant_spritesheet_2
+  - first:
+      213: 6806283406074667800
+    second: elephant_spritesheet_3
+  - first:
+      213: 5253824717474226634
+    second: elephant_spritesheet_4
+  - first:
+      213: -9191889683305274507
+    second: elephant_spritesheet_5
+  - first:
+      213: 8575439891082219587
+    second: elephant_spritesheet_6
+  - first:
+      213: 7305356623182974264
+    second: elephant_spritesheet_7
+  - first:
+      213: 7244003537715907804
+    second: elephant_spritesheet_8
+  - first:
+      213: -3182842201593905624
+    second: elephant_spritesheet_9
+  - first:
+      213: 8765223266573051054
+    second: elephant_spritesheet_10
+  - first:
+      213: -7211346931862886778
+    second: elephant_spritesheet_11
+  - first:
+      213: 2553922598572814584
+    second: elephant_spritesheet_12
+  - first:
+      213: 2591882945442312619
+    second: elephant_spritesheet_13
+  - first:
+      213: -2126539347535447692
+    second: elephant_spritesheet_14
+  - first:
+      213: 3724770270213723804
+    second: elephant_spritesheet_15
+  - first:
+      213: -1011714440975949596
+    second: elephant_spritesheet_16
+  - first:
+      213: -3952621431666486578
+    second: elephant_spritesheet_17
+  - first:
+      213: -1847419650177987118
+    second: elephant_spritesheet_18
+  - first:
+      213: -5296538084303507821
+    second: elephant_spritesheet_19
+  - first:
+      213: -5966550963144198917
+    second: elephant_spritesheet_20
+  - first:
+      213: 4444506808445131972
+    second: elephant_spritesheet_21
+  - first:
+      213: -4339677596721633494
+    second: elephant_spritesheet_22
+  - first:
+      213: -8388127523236005673
+    second: elephant_spritesheet_23
+  - first:
+      213: 7572179808714612772
+    second: elephant_spritesheet_24
+  - first:
+      213: -2472264367895996324
+    second: elephant_spritesheet_25
+  - first:
+      213: 7371278278156394373
+    second: elephant_spritesheet_26
+  - first:
+      213: -3636614158274083774
+    second: elephant_spritesheet_27
+  - first:
+      213: -3400092000654188712
+    second: elephant_spritesheet_28
+  - first:
+      213: -624516203480861587
+    second: elephant_spritesheet_29
+  - first:
+      213: -5893775320439927999
+    second: elephant_spritesheet_30
+  - first:
+      213: -5752840643071535113
+    second: elephant_spritesheet_31
+  - first:
+      213: -2028707648981827688
+    second: elephant_spritesheet_32
+  - first:
+      213: 9108289045679878420
+    second: elephant_spritesheet_33
+  - first:
+      213: -2061710708218982570
+    second: elephant_spritesheet_34
+  - first:
+      213: -1593259214429569416
+    second: elephant_spritesheet_35
+  - first:
+      213: -8478756450704936936
+    second: elephant_spritesheet_36
+  - first:
+      213: 1813495177590781189
+    second: elephant_spritesheet_37
+  - first:
+      213: -5553600971364245902
+    second: elephant_spritesheet_38
+  - first:
+      213: 4212088245506991744
+    second: elephant_spritesheet_39
+  - first:
+      213: -2301509985051436825
+    second: elephant_spritesheet_40
+  - first:
+      213: 2290058905207088625
+    second: elephant_spritesheet_41
+  - first:
+      213: 103613227624237543
+    second: elephant_spritesheet_42
+  - first:
+      213: -3873037455953916969
+    second: elephant_spritesheet_43
+  - first:
+      213: -4676920522569522872
+    second: elephant_spritesheet_44
+  - first:
+      213: -7229846111024680876
+    second: elephant_spritesheet_45
+  - first:
+      213: 3028869804061388635
+    second: elephant_spritesheet_46
+  - first:
+      213: 2046726668516544882
+    second: elephant_spritesheet_47
+  - first:
+      213: -2680405548613924170
+    second: elephant_spritesheet_48
+  - first:
+      213: -2109821680325058344
+    second: elephant_spritesheet_49
+  - first:
+      213: -1788691519339929833
+    second: elephant_spritesheet_50
+  - first:
+      213: 7584930033386370044
+    second: elephant_spritesheet_51
+  - first:
+      213: 652483793324059179
+    second: elephant_spritesheet_52
+  - first:
+      213: -3117625644047193353
+    second: elephant_spritesheet_53
+  - first:
+      213: 444131529375265820
+    second: elephant_spritesheet_54
+  - first:
+      213: -2597034470919187927
+    second: elephant_spritesheet_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elephant_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8008
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc3a7066258d8540bc63c34e4df240a
+      internalID: -954627112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 8008
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bc8a637dbff1142a1e6aca5b49d882
+      internalID: 1667448068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 8008
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb768f01db17034c8db0798a7268450
+      internalID: 407516065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 8008
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9da0af9977e42e479ba81cd1da4b6e7
+      internalID: 478539145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 3972
+        y: 8008
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2e00b9c0bbd3942a8cab3d5dd7f461
+      internalID: 1047672732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7280
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84b7b45d1e6446488ff64fc10e1bd3a
+      internalID: 1934746747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 7280
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d672eee956fcc4e9c5dbcd92c3848f
+      internalID: -1028308683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 7280
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4783daceb4b119d48b69c6718250f8af
+      internalID: 1597574583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 7280
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c344c3ebd1c8442910b293a2e2b327
+      internalID: -1606621668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 3972
+        y: 7280
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093889f9f12f8804e8c195322310562a
+      internalID: -1379209445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6552
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef025de446555c46902494ad5cff4d6
+      internalID: -394295020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 6552
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc020bb113eac8b43923952de9ae7035
+      internalID: 2024558924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 6552
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc161c281170cd408e47490a309887e
+      internalID: -100147007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 6552
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b90de2e9666d7d4691eb6699ddcfbe0
+      internalID: 1275236197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 3972
+        y: 6552
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f2d06592524314a85720b1e350908f
+      internalID: -1856102139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5824
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1944ad4ba8e22db4fa56b50589669301
+      internalID: 1380336876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 5824
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2036f05d7d91ad047bd3eccafc4fd218
+      internalID: -1354075639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 5824
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27f446aae1d99649b816a9c0dcc44d4
+      internalID: 1015114888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 5824
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cad4e0df0022b54198a80bf8a1a2424
+      internalID: 1935794280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 3972
+        y: 5824
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95a066d0a26e4c4e8b4ac52a1579a8c
+      internalID: 81167482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5096
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa37443d90318684fa18d165becd892c
+      internalID: 1774141803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 5096
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77feb8754d799554f913d870f4f07da1
+      internalID: 601918739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 5096
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ac86972bb15204abf5b89e639e736e
+      internalID: -2043985910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 5096
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cfccae63c29f944b922a0343e199fa
+      internalID: -676874871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3972
+        y: 5096
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7a6eee2de74054cb4f4cef02ebe9d0
+      internalID: -1081259140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4368
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9bc221fa742524ea0c809121df60f8
+      internalID: -1700870821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 4368
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cff228d40e850d41892e2751d4e7c26
+      internalID: 70758715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 4368
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d714d35bfd8b9b46b73149ecbf55441
+      internalID: -1880247583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 4368
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28e798185500694692b3918a3568948
+      internalID: 1570194293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3972
+        y: 4368
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa286a834b08bc48a7a9f7152848c48
+      internalID: -334657459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3640
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29fdbd89fa529c4eb2cbcd20019aa0e
+      internalID: -518518599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 3640
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ecec6abf9881642a9f7aa069aaf939
+      internalID: 39033919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 3640
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1da029ab01047c458468baba6eeb837
+      internalID: -679033741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 3640
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe532d4f2a7e5fb4ba4ec63497e5eaca
+      internalID: 173296023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 3972
+        y: 3640
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbc7d5d598dc514b9761e1a763813ce
+      internalID: 857540676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2912
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7563f4c1596585545958b99fa8cbaedf
+      internalID: 1599683677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2912
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5d624590612f344b8b7aa7460455fb
+      internalID: -53440546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 2912
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20065baecbccc8049a830b02de8ce991
+      internalID: -2116900746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 2912
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cbf20133f7f4541babadf714369bc9
+      internalID: 2125246699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 3972
+        y: 2912
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6ad08f1acfd0d498e2f89a333d01e8
+      internalID: 1452277718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2184
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1c0977f534d18469d03140bb08496e
+      internalID: -1442024742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2184
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d393269e6e3a0334884e5e818c974838
+      internalID: 557942647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 2184
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4390777c879b7a54abb7920af59d71fc
+      internalID: 1810932673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 2184
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd07b17baed863847ad9e5c33cc525dd
+      internalID: 1730862611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 3972
+        y: 2184
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6e21758bcf0fa46a6464af1a302b5e
+      internalID: -1870970911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1456
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e9574fc397228478d1b627a8346afd
+      internalID: 1966143142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1456
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f756ac6d6b22bb419ca8b5e1edbc9ef
+      internalID: -2004528817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1456
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77462fffa4cc954c9d3be4ae834d9ac
+      internalID: -571924817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 1456
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5b37720d1733042b45680ed89d24a2
+      internalID: 1071022587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 3972
+        y: 1456
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e98ccc5b23797044bef4032ab4891ee
+      internalID: 1746416971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37428c0194efa9d4e89d9d535ea7a85b
+      internalID: 1915610509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 728
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b3ea60c7682a84a9025351ef392f46
+      internalID: 1361600968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 728
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f2b445c6200b94894a8390654224b0
+      internalID: 1360179741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 728
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bab8d53bed8bb0419c0cc6eea0982c6
+      internalID: -899621865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 3972
+        y: 728
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5fdc7138fbd3b44b447abe504d0526
+      internalID: -272863667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 993
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00c43420e2ce5642b47d7583c924933
+      internalID: -201837531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a27e523df36f6854f8828c87e5d7ddaf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      elephant_spritesheet_0: -954627112
+      elephant_spritesheet_1: 1667448068
+      elephant_spritesheet_10: -394295020
+      elephant_spritesheet_11: 2024558924
+      elephant_spritesheet_12: -100147007
+      elephant_spritesheet_13: 1275236197
+      elephant_spritesheet_14: -1856102139
+      elephant_spritesheet_15: 1380336876
+      elephant_spritesheet_16: -1354075639
+      elephant_spritesheet_17: 1015114888
+      elephant_spritesheet_18: 1935794280
+      elephant_spritesheet_19: 81167482
+      elephant_spritesheet_2: 407516065
+      elephant_spritesheet_20: 1774141803
+      elephant_spritesheet_21: 601918739
+      elephant_spritesheet_22: -2043985910
+      elephant_spritesheet_23: -676874871
+      elephant_spritesheet_24: -1081259140
+      elephant_spritesheet_25: -1700870821
+      elephant_spritesheet_26: 70758715
+      elephant_spritesheet_27: -1880247583
+      elephant_spritesheet_28: 1570194293
+      elephant_spritesheet_29: -334657459
+      elephant_spritesheet_3: 478539145
+      elephant_spritesheet_30: -518518599
+      elephant_spritesheet_31: 39033919
+      elephant_spritesheet_32: -679033741
+      elephant_spritesheet_33: 173296023
+      elephant_spritesheet_34: 857540676
+      elephant_spritesheet_35: 1599683677
+      elephant_spritesheet_36: -53440546
+      elephant_spritesheet_37: -2116900746
+      elephant_spritesheet_38: 2125246699
+      elephant_spritesheet_39: 1452277718
+      elephant_spritesheet_4: 1047672732
+      elephant_spritesheet_40: -1442024742
+      elephant_spritesheet_41: 557942647
+      elephant_spritesheet_42: 1810932673
+      elephant_spritesheet_43: 1730862611
+      elephant_spritesheet_44: -1870970911
+      elephant_spritesheet_45: 1966143142
+      elephant_spritesheet_46: -2004528817
+      elephant_spritesheet_47: -571924817
+      elephant_spritesheet_48: 1071022587
+      elephant_spritesheet_49: 1746416971
+      elephant_spritesheet_5: 1934746747
+      elephant_spritesheet_50: 1915610509
+      elephant_spritesheet_51: 1361600968
+      elephant_spritesheet_52: 1360179741
+      elephant_spritesheet_53: -899621865
+      elephant_spritesheet_54: -272863667
+      elephant_spritesheet_55: -201837531
+      elephant_spritesheet_6: -1028308683
+      elephant_spritesheet_7: 1597574583
+      elephant_spritesheet_8: -1606621668
+      elephant_spritesheet_9: -1379209445
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
